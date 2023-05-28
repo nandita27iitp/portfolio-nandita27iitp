@@ -64,42 +64,42 @@ const Techstackcontent = () => {
             </div>
 
             <div className="card 9">
-                <div className="card_image"> <img src="https://i.redd.it/b3esnz5ra34y.jpg" /> </div>
+                <div className="card_image"> <img src={React9} className="img" alt="true" /> </div>
                 <div className="card_title title-white"></div>
             </div>
 
             <div className="card 10">
-                <div className="card_image"> <img src="https://i.redd.it/b3esnz5ra34y.jpg" /> </div>
+                <div className="card_image"> <img src={React10} className="img" alt="true" /> </div>
                 <div className="card_title title-white"></div>
             </div>
 
             <div className="card 11">
-                <div className="card_image"> <img src="https://i.redd.it/b3esnz5ra34y.jpg" /> </div>
+                <div className="card_image"> <img src={React11} className="img" alt="true" /> </div>
                 <div className="card_title title-white"></div>
             </div>
 
             <div className="card 12">
-                <div className="card_image"> <img src="https://i.redd.it/b3esnz5ra34y.jpg" /> </div>
+                <div className="card_image"> <img src={React12} className="img" alt="true" /> </div>
                 <div className="card_title title-white"></div>
             </div>
 
             <div className="card 13">
-                <div className="card_image"> <img src="https://i.redd.it/b3esnz5ra34y.jpg" /> </div>
+                <div className="card_image"> <img src={React13} className="img" alt="true" /> </div>
                 <div className="card_title title-white"></div>
             </div>
 
             <div className="card 14">
-                <div className="card_image"> <img src="https://i.redd.it/b3esnz5ra34y.jpg" /> </div>
+                <div className="card_image"> <img src={React14} className="img" alt="true" /> </div>
                 <div className="card_title title-white"></div>
             </div>
 
             <div className="card 15">
-                <div className="card_image"> <img src="https://i.redd.it/b3esnz5ra34y.jpg" /> </div>
+                <div className="card_image"> <img src={React15} className="img" alt="true" /> </div>
                 <div className="card_title title-white"></div>
             </div>
 
             <div className="card 16">
-                <div className="card_image"> <img src="https://i.redd.it/b3esnz5ra34y.jpg" /> </div>
+                <div className="card_image"> <img src={React16} className="img" alt="true" /> </div>
                 <div className="card_title title-white"></div>
             </div>
          </div>
